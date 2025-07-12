@@ -1,6 +1,6 @@
 # Superstore Sales Performance Analysis Dashboard
 
-![Superstore Dashboard Banner](https://github.com/dougieboat/Blossom-Academy-Data-Analytics-Fellowhship/blob/5f80ac3786437887a1a9b154f6b879c3810a3452/Excel-Projects/images/1-Superstore-Dashboard-Banner.png)
+![Superstore Dashboard Banner](https://github.com/dougieboat/Superstore-Sales-Performance-Dashboard/blob/ba594c65297e3a59efd1a1d3aa0ddb2e895df45c/images/1-Superstore-Dashboard-Banner.png)
 
 ## 🚀 Introduction
 
@@ -87,7 +87,7 @@ Data cleaned and transformed using **Power Query** and Excel formulas:
 
 > **Insight:** The **West** region generated the highest sales, while the **South** had the lowest.
 
-![Regional Sales Chart](https://github.com/dougieboat/Blossom-Academy-Data-Analytics-Fellowhship/blob/5f80ac3786437887a1a9b154f6b879c3810a3452/Excel-Projects/images/93-Regional-Sales-Chart.png)
+![Regional Sales Chart](https://github.com/dougieboat/Superstore-Sales-Performance-Dashboard/blob/ba594c65297e3a59efd1a1d3aa0ddb2e895df45c/images/93-Regional-Sales-Chart.png)
 
 ---
 
@@ -102,7 +102,7 @@ Data cleaned and transformed using **Power Query** and Excel formulas:
 
 > **Insight:** **Technology** consistently performed best and grew steadily over the years.
 
-![Stacked Column Chart](https://github.com/dougieboat/Blossom-Academy-Data-Analytics-Fellowhship/blob/5f80ac3786437887a1a9b154f6b879c3810a3452/Excel-Projects/images/108-Category-Performance-Over-Time.png)
+![Stacked Column Chart](https://github.com/dougieboat/Superstore-Sales-Performance-Dashboard/blob/ba594c65297e3a59efd1a1d3aa0ddb2e895df45c/images/108-Category-Performance-Over-Time.png)
 
 ---
 
@@ -116,7 +116,7 @@ Data cleaned and transformed using **Power Query** and Excel formulas:
 
 > **Insight:** **Office Supplies** dominate in product volume.
 
-![Doughnut Chart](https://github.com/dougieboat/Blossom-Academy-Data-Analytics-Fellowhship/blob/5f80ac3786437887a1a9b154f6b879c3810a3452/Excel-Projects/images/122-Doughnut-Chart.png)
+![Doughnut Chart](https://github.com/dougieboat/Superstore-Sales-Performance-Dashboard/blob/ba594c65297e3a59efd1a1d3aa0ddb2e895df45c/images/122-Doughnut-Chart.png)
 
 ---
 
@@ -131,7 +131,7 @@ Data cleaned and transformed using **Power Query** and Excel formulas:
 
 > **Insight:** Sales peaked in **2017**.
 
-![Line Chart](https://github.com/dougieboat/Blossom-Academy-Data-Analytics-Fellowhship/blob/5f80ac3786437887a1a9b154f6b879c3810a3452/Excel-Projects/images/135-Line-Chart.png)  
+![Line Chart](https://github.com/dougieboat/Superstore-Sales-Performance-Dashboard/blob/ba594c65297e3a59efd1a1d3aa0ddb2e895df45c/images/135-Line-Chart.png)  
 
 ---
 
@@ -163,7 +163,7 @@ Data cleaned and transformed using **Power Query** and Excel formulas:
 
 ---
 
-> _Ready to explore the dashboard? Download the [Excel file](https://github.com/dougieboat/Blossom-Academy-Data-Analytics-Fellowhship/blob/5f80ac3786437887a1a9b154f6b879c3810a3452/Excel-Projects/Individual_Capstone_-_Superstore_Sales.xlsx) and dive into the insights!_
+> _Ready to explore the dashboard? Download the [Excel file](https://github.com/dougieboat/Superstore-Sales-Performance-Dashboard/blob/ba594c65297e3a59efd1a1d3aa0ddb2e895df45c/Individual_Capstone_-_Superstore_Sales.xlsx) and dive into the insights!_
 
 ---
 
