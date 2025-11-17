@@ -90,7 +90,8 @@ The visual layout was designed with a "UI/UX first" approach:
 | **Home Office** | $92.54K | $121.74K | $93.82K | $116.89K |
 
 > **Insight:** The **Consumer** segment in the **West** region is the single most profitable cohort, generating **$438.75K** in sales.
-![Segment & Region Sales](httpsimg)
+
+![Segment & Region Sales](https://github.com/dougieboat/Superstore-Sales-Performance-Dashboard/blob/efd04550233c59a072415e2a269bc4e699c12c66/images/93-Sales-by-Segment-and-Region.png)
 
 ---
 
@@ -102,6 +103,7 @@ The visual layout was designed with a "UI/UX first" approach:
 | Technology | 19% |
 
 > **Insight:** **Office Supplies** dominate sales *volume* at 60%, but (as seen in other charts) **Technology** and **Furniture** drive a disproportionately high amount of the *revenue*.
+
 ![Category Distribution](https://github.com/dougieboat/Superstore-Sales-Performance-Dashboard/blob/efd04550233c59a072415e2a269bc4e699c12c66/images/105-Sales-Distribution-per-Category.png)
 
 ---
@@ -116,7 +118,8 @@ The visual layout was designed with a "UI/UX first" approach:
 | **Sean Miller** | **$25K** |
 
 > **Insight:** A small number of high-value customers, led by **Sean Miller ($25K)**, contribute significantly to total revenue.
-![Top 5 Customers](httpsimg)
+
+![Top 5 Customers](https://github.com/dougieboat/Superstore-Sales-Performance-Dashboard/blob/efd04550233c59a072415e2a269bc4e699c12c66/images/119-Top-5-Customers-by-Sales.png)
 
 ---
 
@@ -132,7 +135,8 @@ The visual layout was designed with a "UI/UX first" approach:
 | Dec | $321.48K |
 
 > **Insight:** Sales are highly seasonal. There is a significant dip in February (**$59.37K**) and a massive peak in **November ($350.16K)**, indicating a strong holiday/Q4 rush.
-![Monthly Sales Trend](img)
+
+![Monthly Sales Trend](https://github.com/dougieboat/Superstore-Sales-Performance-Dashboard/blob/efd04550233c59a072415e2a269bc4e699c12c66/images/135-Month-on-Month-Sales-Trend.png)
 
 ---
 
@@ -144,7 +148,8 @@ The visual layout was designed with a "UI/UX first" approach:
 | Same Day Delivery | 5% |
 
 > **Insight:** This is a critical operational finding. An alarming **68% of all deliveries are 'Late'**, posing a significant risk to customer satisfaction.
-![Delivery Status](httpsimg)
+
+![Delivery Status](https://github.com/dougieboat/Superstore-Sales-Performance-Dashboard/blob/efd04550233c59a072415e2a269bc4e699c12c66/images/147-Delivery-Status-Distribution.png)
 
 ---
 
@@ -157,7 +162,8 @@ The visual layout was designed with a "UI/UX first" approach:
 | **West** | **3.16K** |
 
 > **Insight:** The **West** region not only has the highest sales but also the largest customer base (**3,160 customers**), confirming its importance.
-![Regional Customers](httpsimg)
+
+![Regional Customers](https://github.com/dougieboat/Superstore-Sales-Performance-Dashboard/blob/efd04550233c59a072415e2a269bc4e699c12c66/images/160-Regional-Customer-Distribution.png)
 
 ---
 
