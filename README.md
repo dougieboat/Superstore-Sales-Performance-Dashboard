@@ -1,5 +1,5 @@
 # Superstore Sales Performance Analysis Dashboard (v2.0)
-![Superstore Dashboard Banner](https://github.com/dougieboat/Superstore-Sales-Performance-Dashboard/blob/9a6bebd9f0ca71bde23cab8c94467e99c77699c7/images/1-Superstore-Dashboard.png)
+![Superstore Dashboard Banner](https://github.com/dougieboat/Superstore-Sales-Performance-Dashboard/blob/bda3babf49d4174990a41098754c76a0a7be205d/images/2-Superstore-Dashboard.png)
 
 ## 🚀 Introduction
 This project is an advanced, interactive dashboard that transforms four years of global superstore sales data into actionable insights.
@@ -91,7 +91,7 @@ The visual layout was designed with a "UI/UX first" approach:
 
 > **Insight:** The **Consumer** segment in the **West** region is the single most profitable cohort, generating **$438.75K** in sales.
 
-![Segment & Region Sales](https://github.com/dougieboat/Superstore-Sales-Performance-Dashboard/blob/efd04550233c59a072415e2a269bc4e699c12c66/images/93-Sales-by-Segment-and-Region.png)
+![Segment & Region Sales](https://github.com/dougieboat/Superstore-Sales-Performance-Dashboard/blob/bda3babf49d4174990a41098754c76a0a7be205d/images/94-Sales-by-Segment-and-Region.png)
 
 ---
 
@@ -104,7 +104,7 @@ The visual layout was designed with a "UI/UX first" approach:
 
 > **Insight:** **Office Supplies** dominate sales *volume* at 60%, but (as seen in other charts) **Technology** and **Furniture** drive a disproportionately high amount of the *revenue*.
 
-![Category Distribution](https://github.com/dougieboat/Superstore-Sales-Performance-Dashboard/blob/efd04550233c59a072415e2a269bc4e699c12c66/images/105-Sales-Distribution-per-Category.png)
+![Category Distribution](https://github.com/dougieboat/Superstore-Sales-Performance-Dashboard/blob/bda3babf49d4174990a41098754c76a0a7be205d/images/107-Sales-Distribution-per-Category.png)
 
 ---
 
@@ -119,7 +119,7 @@ The visual layout was designed with a "UI/UX first" approach:
 
 > **Insight:** A small number of high-value customers, led by **Sean Miller ($25K)**, contribute significantly to total revenue.
 
-![Top 5 Customers](https://github.com/dougieboat/Superstore-Sales-Performance-Dashboard/blob/efd04550233c59a072415e2a269bc4e699c12c66/images/119-Top-5-Customers-by-Sales.png)
+![Top 5 Customers](https://github.com/dougieboat/Superstore-Sales-Performance-Dashboard/blob/bda3babf49d4174990a41098754c76a0a7be205d/images/122-Top-5-Customers-by-Sales.png)
 
 ---
 
@@ -136,7 +136,7 @@ The visual layout was designed with a "UI/UX first" approach:
 
 > **Insight:** Sales are highly seasonal. There is a significant dip in February (**$59.37K**) and a massive peak in **November ($350.16K)**, indicating a strong holiday/Q4 rush.
 
-![Monthly Sales Trend](https://github.com/dougieboat/Superstore-Sales-Performance-Dashboard/blob/efd04550233c59a072415e2a269bc4e699c12c66/images/135-Month-on-Month-Sales-Trend.png)
+![Monthly Sales Trend](https://github.com/dougieboat/Superstore-Sales-Performance-Dashboard/blob/bda3babf49d4174990a41098754c76a0a7be205d/images/139-Month-on-Month-Sales-Trend.png)
 
 ---
 
@@ -149,7 +149,7 @@ The visual layout was designed with a "UI/UX first" approach:
 
 > **Insight:** This is a critical operational finding. An alarming **68% of all deliveries are 'Late'**, posing a significant risk to customer satisfaction.
 
-![Delivery Status](https://github.com/dougieboat/Superstore-Sales-Performance-Dashboard/blob/efd04550233c59a072415e2a269bc4e699c12c66/images/147-Delivery-Status-Distribution.png)
+![Delivery Status](https://github.com/dougieboat/Superstore-Sales-Performance-Dashboard/blob/bda3babf49d4174990a41098754c76a0a7be205d/images/152-Delivery-Status-Distribution.png)
 
 ---
 
@@ -163,7 +163,7 @@ The visual layout was designed with a "UI/UX first" approach:
 
 > **Insight:** The **West** region not only has the highest sales but also the largest customer base (**3,160 customers**), confirming its importance.
 
-![Regional Customers](https://github.com/dougieboat/Superstore-Sales-Performance-Dashboard/blob/efd04550233c59a072415e2a269bc4e699c12c66/images/160-Regional-Customer-Distribution.png)
+![Regional Customers](https://github.com/dougieboat/Superstore-Sales-Performance-Dashboard/blob/bda3babf49d4174990a41098754c76a0a7be205d/images/166-Regional-Customer-Distribution.png)
 
 ---
 
