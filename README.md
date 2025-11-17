@@ -191,7 +191,7 @@ The visual layout was designed with a "UI/UX first" approach:
 
 ---
 
-> _Ready to explore the dashboard? Download the [Excel file](https://github.com/dougieboat/Superstore-Sales-Performance-Dashboard/blob/ba594c65297e3a59efd1a1d3aa0ddb2e895df45c/Individual_Capstone_-_Superstore_Sales.xlsx) and dive into the insights!_
+> _Ready to explore the dashboard? Download the [Excel file](https://github.com/dougieboat/Superstore-Sales-Performance-Dashboard/blob/2432eff75fc047492b9b859b26e89e1847a8bd7b/dataset/Superstore_Sales.xlsx) and dive into the insights!_
 
 ---
 
