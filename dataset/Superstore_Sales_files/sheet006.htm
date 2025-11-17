@@ -1,0 +1,470 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 15">
+<link id=Main-File rel=Main-File href="../Superstore_Sales.htm">
+<link rel=File-List href=filelist.xml>
+<link rel=Stylesheet href=stylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+-->
+</style>
+<![if !supportTabStrip]><script language="JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=4) {
+   if (parent.document.readyState=="complete"
+    && parent.frames['frTabs'].document.readyState=="complete")
+   parent.fnSetActiveSheet(5);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!="frSheet")
+ window.location.replace("../Superstore_Sales.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link="#467886" vlink="#96607D">
+
+<table border=0 cellpadding=0 cellspacing=0 width=1752 style='border-collapse:
+ collapse;table-layout:fixed;width:1316pt'>
+ <col width=72 span=2 style='mso-width-source:userset;mso-width-alt:2560;
+ width:54pt'>
+ <col width=64 span=3 style='mso-width-source:userset;mso-width-alt:2275;
+ width:48pt'>
+ <col width=84 style='mso-width-source:userset;mso-width-alt:2986;width:63pt'>
+ <col width=116 style='mso-width-source:userset;mso-width-alt:4124;width:87pt'>
+ <col width=113 style='mso-width-source:userset;mso-width-alt:4010;width:85pt'>
+ <col width=152 style='mso-width-source:userset;mso-width-alt:5404;width:114pt'>
+ <col width=94 span=2 style='mso-width-source:userset;mso-width-alt:3356;
+ width:71pt'>
+ <col width=64 style='width:48pt'>
+ <col width=106 style='mso-width-source:userset;mso-width-alt:3783;width:80pt'>
+ <col width=72 style='mso-width-source:userset;mso-width-alt:2560;width:54pt'>
+ <col width=64 style='width:48pt'>
+ <col width=125 style='mso-width-source:userset;mso-width-alt:4437;width:94pt'>
+ <col width=99 style='mso-width-source:userset;mso-width-alt:3527;width:74pt'>
+ <col width=64 style='width:48pt'>
+ <col width=169 style='mso-width-source:userset;mso-width-alt:6001;width:127pt'>
+ <col width=64 span=3 style='width:48pt'>
+ <col width=90 style='mso-width-source:userset;mso-width-alt:3185;width:67pt'>
+ <col width=84 style='mso-width-source:userset;mso-width-alt:2986;width:63pt'>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 width=72 style='height:14.4pt;width:54pt'><a name="RANGE!A1"></a></td>
+  <td width=72 style='width:54pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=84 style='width:63pt'></td>
+  <td width=116 style='width:87pt'></td>
+  <td width=113 style='width:85pt'></td>
+  <td width=152 style='width:114pt'></td>
+  <td width=94 style='width:71pt'></td>
+  <td width=94 style='width:71pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=106 style='width:80pt'></td>
+  <td width=72 style='width:54pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=125 style='width:94pt'></td>
+  <td width=99 style='width:74pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=169 style='width:127pt'></td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 colspan=19 style='height:14.4pt;mso-ignore:colspan'></td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl75 style='height:14.4pt'>KPI - Total S<span
+  style='display:none'>ales</span></td>
+  <td colspan=6 style='mso-ignore:colspan'></td>
+  <td class=xl75>KPI - Average Sales</td>
+  <td colspan=4 style='mso-ignore:colspan'></td>
+  <td class=xl75>KPI - Total Goods S<span style='display:none'>old</span></td>
+  <td colspan=2 style='mso-ignore:colspan'></td>
+  <td class=xl75>KPI - Top Performing <span style='display:none'>City</span></td>
+  <td colspan=2 style='mso-ignore:colspan'></td>
+  <td class=xl75>KPI - Average Delivery Duratio<span style='display:none'>n</span></td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 style='height:14.4pt;font-size:11.0pt;color:black;font-weight:
+  700;text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:"Aptos Narrow", sans-serif;border-top:none;border-right:none;
+  border-bottom:.5pt solid #44B3E1;border-left:none;background:#C0E6F5;
+  mso-pattern:#C0E6F5 none'>Total Sales</td>
+  <td colspan=6 style='mso-ignore:colspan'></td>
+  <td style='font-size:11.0pt;color:black;font-weight:700;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:"Aptos Narrow", sans-serif;
+  border-top:none;border-right:none;border-bottom:.5pt solid #44B3E1;
+  border-left:none;background:#C0E6F5;mso-pattern:#C0E6F5 none'>Average Sales</td>
+  <td colspan=4 style='mso-ignore:colspan'></td>
+  <td style='font-size:11.0pt;color:black;font-weight:700;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:"Aptos Narrow", sans-serif;
+  border-top:none;border-right:none;border-bottom:.5pt solid #44B3E1;
+  border-left:none;background:#C0E6F5;mso-pattern:#C0E6F5 none'>Total Goods
+  sold</td>
+  <td colspan=2 style='mso-ignore:colspan'></td>
+  <td style='font-size:11.0pt;color:black;font-weight:700;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:"Aptos Narrow", sans-serif;
+  border-top:none;border-right:none;border-bottom:.5pt solid #44B3E1;
+  border-left:none;background:#C0E6F5;mso-pattern:#C0E6F5 none'>Top Performing
+  City</td>
+  <td colspan=2 style='mso-ignore:colspan'></td>
+  <td style='font-size:11.0pt;color:black;font-weight:700;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:"Aptos Narrow", sans-serif;
+  border-top:none;border-right:none;border-bottom:.5pt solid #44B3E1;
+  border-left:none;background:#C0E6F5;mso-pattern:#C0E6F5 none'>Average of
+  Deliver Duration</td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl68 align=right style='height:14.4pt'><a
+  name=TotalSales>$ 2.26M</a></td>
+  <td colspan=6 style='mso-ignore:colspan'></td>
+  <td class=xl67 align=right><a name=AvgSales>$ 231</a></td>
+  <td colspan=4 style='mso-ignore:colspan'></td>
+  <td class=xl73><a name=TotGoods></a><a name=TotalGoogs></a><a
+  name=TotalGoods></a><a name=TotalGooda></a><a name=TotalGood></a><a
+  name=TotalCustomers></a><a name=ghghg><span
+  style='mso-spacerun:yes'>                           </span>4,922 </a></td>
+  <td colspan=2 style='mso-ignore:colspan'></td>
+  <td><a name=TopCity>New York City</a></td>
+  <td colspan=2 style='mso-ignore:colspan'></td>
+  <td class=xl73><span
+  style='mso-spacerun:yes'>                                                               
+  </span>4 </td>
+ </tr>
+ <tr height=114 style='height:86.4pt;mso-xlrowspan:6'>
+  <td height=114 colspan=19 style='height:86.4pt;mso-ignore:colspan'></td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl75 style='height:14.4pt'>Sales by Seg<span
+  style='display:none'>ment and Region</span></td>
+  <td colspan=6 style='mso-ignore:colspan'></td>
+  <td class=xl75>Sales Distribution p<span style='display:none'>er Category</span></td>
+  <td colspan=4 style='mso-ignore:colspan'></td>
+  <td class=xl75>Top 5 Customers b<span style='display:none'>y Sales</span></td>
+  <td colspan=6 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 style='height:14.4pt;font-size:11.0pt;color:black;font-weight:
+  700;text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:"Aptos Narrow", sans-serif;background:#C0E6F5;mso-pattern:#C0E6F5 none'>Total
+  Sales</td>
+  <td colspan=2 style='mso-ignore:colspan;font-size:11.0pt;color:black;
+  font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:"Aptos Narrow", sans-serif;background:#C0E6F5;mso-pattern:
+  #C0E6F5 none'>Column Labels</td>
+  <td style='font-size:11.0pt;color:black;font-weight:700;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:"Aptos Narrow", sans-serif;
+  background:#C0E6F5;mso-pattern:#C0E6F5 none'></td>
+  <td style='font-size:11.0pt;color:black;font-weight:700;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:"Aptos Narrow", sans-serif;
+  background:#C0E6F5;mso-pattern:#C0E6F5 none'></td>
+  <td colspan=2 style='mso-ignore:colspan'></td>
+  <td style='font-size:11.0pt;color:black;font-weight:700;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:"Aptos Narrow", sans-serif;
+  border-top:none;border-right:none;border-bottom:.5pt solid #44B3E1;
+  border-left:none;background:#C0E6F5;mso-pattern:#C0E6F5 none'>Row Labels</td>
+  <td style='font-size:11.0pt;color:black;font-weight:700;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:"Aptos Narrow", sans-serif;
+  border-top:none;border-right:none;border-bottom:.5pt solid #44B3E1;
+  border-left:none;background:#C0E6F5;mso-pattern:#C0E6F5 none'>Count of Row ID</td>
+  <td colspan=3 style='mso-ignore:colspan'></td>
+  <td style='font-size:11.0pt;color:black;font-weight:700;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:"Aptos Narrow", sans-serif;
+  border-top:none;border-right:none;border-bottom:.5pt solid #44B3E1;
+  border-left:none;background:#C0E6F5;mso-pattern:#C0E6F5 none'>Row Labels</td>
+  <td style='font-size:11.0pt;color:black;font-weight:700;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:"Aptos Narrow", sans-serif;
+  border-top:none;border-right:none;border-bottom:.5pt solid #44B3E1;
+  border-left:none;background:#C0E6F5;mso-pattern:#C0E6F5 none'>Total Sales</td>
+  <td colspan=5 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 style='height:14.4pt;font-size:11.0pt;color:black;font-weight:
+  700;text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:"Aptos Narrow", sans-serif;border-top:none;border-right:none;
+  border-bottom:.5pt solid #44B3E1;border-left:none;background:#C0E6F5;
+  mso-pattern:#C0E6F5 none'>Row Labels</td>
+  <td style='font-size:11.0pt;color:black;font-weight:700;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:"Aptos Narrow", sans-serif;
+  border-top:none;border-right:none;border-bottom:.5pt solid #44B3E1;
+  border-left:none;background:#C0E6F5;mso-pattern:#C0E6F5 none'>Central</td>
+  <td style='font-size:11.0pt;color:black;font-weight:700;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:"Aptos Narrow", sans-serif;
+  border-top:none;border-right:none;border-bottom:.5pt solid #44B3E1;
+  border-left:none;background:#C0E6F5;mso-pattern:#C0E6F5 none'>East</td>
+  <td style='font-size:11.0pt;color:black;font-weight:700;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:"Aptos Narrow", sans-serif;
+  border-top:none;border-right:none;border-bottom:.5pt solid #44B3E1;
+  border-left:none;background:#C0E6F5;mso-pattern:#C0E6F5 none'>South</td>
+  <td style='font-size:11.0pt;color:black;font-weight:700;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:"Aptos Narrow", sans-serif;
+  border-top:none;border-right:none;border-bottom:.5pt solid #44B3E1;
+  border-left:none;background:#C0E6F5;mso-pattern:#C0E6F5 none'>West</td>
+  <td colspan=2 style='mso-ignore:colspan'></td>
+  <td class=xl69>Furniture</td>
+  <td class=xl71 align=right>21%</td>
+  <td class=xl71 align=right><a name=MaxCatPct>60%</a></td>
+  <td class=xl71></td>
+  <td></td>
+  <td class=xl69>Adrian Barton</td>
+  <td class=xl72 align=right>$ 14K</td>
+  <td colspan=5 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl69 style='height:14.4pt'>Consumer</td>
+  <td class=xl70 align=right>$ 258.03K</td>
+  <td class=xl70 align=right>$ 268.02K</td>
+  <td class=xl70 align=right>$ 183.26K</td>
+  <td class=xl70 align=right>$ 438.75K</td>
+  <td colspan=2 style='mso-ignore:colspan'></td>
+  <td class=xl69>Office Supplies</td>
+  <td class=xl71 align=right>60%</td>
+  <td><a name=MaxCat>Office Supplies</a></td>
+  <td colspan=2 style='mso-ignore:colspan'></td>
+  <td class=xl69>Tom Ashbrook</td>
+  <td class=xl72 align=right>$ 15K</td>
+  <td colspan=5 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl69 style='height:14.4pt'>Corporate</td>
+  <td class=xl70 align=right>$ 163.68K</td>
+  <td class=xl70 align=right>$ 216.60K</td>
+  <td class=xl70 align=right>$ 119.55K</td>
+  <td class=xl70 align=right>$ 188.66K</td>
+  <td colspan=2 style='mso-ignore:colspan'></td>
+  <td class=xl69>Technology</td>
+  <td class=xl71 align=right>19%</td>
+  <td colspan=3 style='mso-ignore:colspan'></td>
+  <td class=xl69>Raymond Buch</td>
+  <td class=xl72 align=right>$ 15K</td>
+  <td colspan=5 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl69 style='height:14.4pt'>Home Offic<span
+  style='display:none'>e</span></td>
+  <td class=xl70 align=right>$ 92.54K</td>
+  <td class=xl70 align=right>$ 121.74K</td>
+  <td class=xl70 align=right>$ 93.82K</td>
+  <td class=xl70 align=right>$ 116.89K</td>
+  <td colspan=7 style='mso-ignore:colspan'></td>
+  <td class=xl69>Tamara Chand</td>
+  <td class=xl72 align=right>$ 19K</td>
+  <td colspan=5 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 colspan=12 style='height:14.4pt;mso-ignore:colspan'></td>
+  <td class=xl69>Sean Miller</td>
+  <td class=xl72 align=right>$ 25K</td>
+  <td colspan=5 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=228 style='height:172.8pt;mso-xlrowspan:12'>
+  <td height=228 colspan=19 style='height:172.8pt;mso-ignore:colspan'></td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl75 style='height:14.4pt'>Month-on-M<span
+  style='display:none'>onth Sales Trend</span></td>
+  <td colspan=6 style='mso-ignore:colspan'></td>
+  <td class=xl75>Delivery Status Dist<span style='display:none'>ribution</span></td>
+  <td colspan=4 style='mso-ignore:colspan'></td>
+  <td class=xl75>Regional Custome<span style='display:none'>r Distribution</span></td>
+  <td colspan=6 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 style='height:14.4pt;font-size:11.0pt;color:black;font-weight:
+  700;text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:"Aptos Narrow", sans-serif;border-top:none;border-right:none;
+  border-bottom:.5pt solid #44B3E1;border-left:none;background:#C0E6F5;
+  mso-pattern:#C0E6F5 none'>Row Labels</td>
+  <td style='font-size:11.0pt;color:black;font-weight:700;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:"Aptos Narrow", sans-serif;
+  border-top:none;border-right:none;border-bottom:.5pt solid #44B3E1;
+  border-left:none;background:#C0E6F5;mso-pattern:#C0E6F5 none'>Total Sales</td>
+  <td colspan=5 style='mso-ignore:colspan'></td>
+  <td style='font-size:11.0pt;color:black;font-weight:700;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:"Aptos Narrow", sans-serif;
+  border-top:none;border-right:none;border-bottom:.5pt solid #44B3E1;
+  border-left:none;background:#C0E6F5;mso-pattern:#C0E6F5 none'>Row Labels</td>
+  <td style='font-size:11.0pt;color:black;font-weight:700;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:"Aptos Narrow", sans-serif;
+  border-top:none;border-right:none;border-bottom:.5pt solid #44B3E1;
+  border-left:none;background:#C0E6F5;mso-pattern:#C0E6F5 none'>Count of
+  Duration Status</td>
+  <td colspan=3 style='mso-ignore:colspan'></td>
+  <td style='font-size:11.0pt;color:black;font-weight:700;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:"Aptos Narrow", sans-serif;
+  border-top:none;border-right:none;border-bottom:.5pt solid #44B3E1;
+  border-left:none;background:#C0E6F5;mso-pattern:#C0E6F5 none'>Row Labels</td>
+  <td colspan=2 style='mso-ignore:colspan;font-size:11.0pt;color:black;
+  font-weight:700;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:"Aptos Narrow", sans-serif;border-top:none;border-right:
+  none;border-bottom:.5pt solid #44B3E1;border-left:none;background:#C0E6F5;
+  mso-pattern:#C0E6F5 none'>Count of Row ID</td>
+  <td colspan=4 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl69 style='height:14.4pt'>Jan</td>
+  <td class=xl70 align=right>$ 94.29K</td>
+  <td colspan=5 style='mso-ignore:colspan'></td>
+  <td class=xl69>Late</td>
+  <td class=xl71 align=right>68%</td>
+  <td colspan=3 style='mso-ignore:colspan'></td>
+  <td class=xl69>Central</td>
+  <td class=xl74 align=right>2.33K</td>
+  <td colspan=5 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl69 style='height:14.4pt'>Feb</td>
+  <td class=xl70 align=right>$ 59.37K</td>
+  <td colspan=5 style='mso-ignore:colspan'></td>
+  <td class=xl69>On Time</td>
+  <td class=xl71 align=right>27%</td>
+  <td colspan=3 style='mso-ignore:colspan'></td>
+  <td class=xl69>East</td>
+  <td class=xl74 align=right>2.71K</td>
+  <td colspan=5 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl69 style='height:14.4pt'>Mar</td>
+  <td class=xl70 align=right>$ 197.57K</td>
+  <td colspan=5 style='mso-ignore:colspan'></td>
+  <td class=xl69>Same Day Delivery</td>
+  <td class=xl71 align=right>5%</td>
+  <td colspan=3 style='mso-ignore:colspan'></td>
+  <td class=xl69>South</td>
+  <td class=xl74 align=right>1.60K</td>
+  <td colspan=5 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl69 style='height:14.4pt'>Apr</td>
+  <td class=xl70 align=right>$ 136.28K</td>
+  <td colspan=10 style='mso-ignore:colspan'></td>
+  <td class=xl69>West</td>
+  <td class=xl74 align=right>3.16K</td>
+  <td colspan=5 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl69 style='height:14.4pt'>May</td>
+  <td class=xl70 align=right>$ 154.09K</td>
+  <td colspan=17 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl69 style='height:14.4pt'>Jun</td>
+  <td class=xl70 align=right>$ 145.84K</td>
+  <td colspan=17 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl69 style='height:14.4pt'>Jul</td>
+  <td class=xl70 align=right>$ 145.54K</td>
+  <td colspan=17 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl69 style='height:14.4pt'>Aug</td>
+  <td class=xl70 align=right>$ 157.32K</td>
+  <td colspan=17 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl69 style='height:14.4pt'>Sep</td>
+  <td class=xl70 align=right>$ 300.10K</td>
+  <td colspan=17 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl69 style='height:14.4pt'>Oct</td>
+  <td class=xl70 align=right>$ 199.50K</td>
+  <td colspan=17 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl69 style='height:14.4pt'>Nov</td>
+  <td class=xl70 align=right>$ 350.16K</td>
+  <td colspan=17 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl69 style='height:14.4pt'>Dec</td>
+  <td class=xl70 align=right>$ 321.48K</td>
+  <td colspan=17 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=57 style='height:43.2pt;mso-xlrowspan:3'>
+  <td height=57 colspan=19 style='height:43.2pt;mso-ignore:colspan'></td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl75 style='height:14.4pt'>Total Region<span
+  style='display:none'>al Sales</span></td>
+  <td colspan=18 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 style='height:14.4pt;font-size:11.0pt;color:black;font-weight:
+  700;text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:"Aptos Narrow", sans-serif;border-top:none;border-right:none;
+  border-bottom:.5pt solid #44B3E1;border-left:none;background:#C0E6F5;
+  mso-pattern:#C0E6F5 none'>Row Labels</td>
+  <td style='font-size:11.0pt;color:black;font-weight:700;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:"Aptos Narrow", sans-serif;
+  border-top:none;border-right:none;border-bottom:.5pt solid #44B3E1;
+  border-left:none;background:#C0E6F5;mso-pattern:#C0E6F5 none'>Total Sales</td>
+  <td colspan=17 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl69 style='height:14.4pt'>Central</td>
+  <td class=xl72 align=right>$ 514K</td>
+  <td colspan=17 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl69 style='height:14.4pt'>East</td>
+  <td class=xl72 align=right>$ 606K</td>
+  <td colspan=17 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl69 style='height:14.4pt'>South</td>
+  <td class=xl72 align=right>$ 397K</td>
+  <td colspan=17 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=19 style='height:14.4pt'>
+  <td height=19 class=xl69 style='height:14.4pt'>West</td>
+  <td class=xl72 align=right>$ 744K</td>
+  <td colspan=17 style='mso-ignore:colspan'></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=72 style='width:54pt'></td>
+  <td width=72 style='width:54pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=84 style='width:63pt'></td>
+  <td width=116 style='width:87pt'></td>
+  <td width=113 style='width:85pt'></td>
+  <td width=152 style='width:114pt'></td>
+  <td width=94 style='width:71pt'></td>
+  <td width=94 style='width:71pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=106 style='width:80pt'></td>
+  <td width=72 style='width:54pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=125 style='width:94pt'></td>
+  <td width=99 style='width:74pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=169 style='width:127pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
