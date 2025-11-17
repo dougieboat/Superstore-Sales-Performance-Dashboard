@@ -102,7 +102,7 @@ The visual layout was designed with a "UI/UX first" approach:
 | Technology | 19% |
 
 > **Insight:** **Office Supplies** dominate sales *volume* at 60%, but (as seen in other charts) **Technology** and **Furniture** drive a disproportionately high amount of the *revenue*.
-![Category Distribution](httpsimg)
+![Category Distribution](https://github.com/dougieboat/Superstore-Sales-Performance-Dashboard/blob/efd04550233c59a072415e2a269bc4e699c12c66/images/105-Sales-Distribution-per-Category.png)
 
 ---
 
