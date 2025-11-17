@@ -6,7 +6,7 @@ This project is an advanced, interactive dashboard that transforms four years of
 
 This second version of the project demonstrates a complete data workflow: starting with raw data, performing **data cleaning and normalization (2NF)**, **feature engineering**, building a **relational data model in Power Pivot**, and developing **DAX measures**. The final dashboard is built on a custom, **PowerPoint-designed wireframe** for a professional UI/UX.
 
-> **Demo:** Watch the dashboard in action on my [LinkedIn Showcase Video](https://www.linkedin.com/posts/douglasboateng_dataanalytics-excel-dashboard-activity-7337468806228856833-z8Dx?utm_source=share&utm_medium=member_desktop&rcm=ACoAACrTIOQBtdUaWRdU8AbooB8DbPLiEQim_q4).
+> **Demo:** Watch the dashboard in action on my [LinkedIn Showcase Video](https://www.linkedin.com/posts/douglasboateng_dataanalytics-excel-dashboard-activity-7396159733004410880-FLKB?utm_source=share&utm_medium=member_desktop&rcm=ACoAACrTIOQBtdUaWRdU8AbooB8DbPLiEQim_q4).
 
 ---
 
@@ -187,7 +187,7 @@ The visual layout was designed with a "UI/UX first" approach:
 
 ## 📎 Quick Links
 -   [Dataset on Kaggle](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
--   [LinkedIn Showcase Video](https://www.linkedin.com/posts/douglasboateng_dataanalytics-excel-dashboard-activity-7337468806228856833-z8Dx?utm_source=share&utm_medium=member_desktop&rcm=ACoAACrTIOQBtdUaWRdU8AbooB8DbPLiEQim_q4)
+-   [LinkedIn Showcase Video](https://www.linkedin.com/posts/douglasboateng_dataanalytics-excel-dashboard-activity-7396159733004410880-FLKB?utm_source=share&utm_medium=member_desktop&rcm=ACoAACrTIOQBtdUaWRdU8AbooB8DbPLiEQim_q4)
 
 ---
 
