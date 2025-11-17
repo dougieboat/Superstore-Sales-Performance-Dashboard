@@ -1,6 +1,6 @@
 # Superstore Sales Performance Analysis Dashboard
 
-![Superstore Dashboard Banner](images\1-Superstore-Dashboard.png)
+![Superstore Dashboard Banner](https://github.com/dougieboat/Superstore-Sales-Performance-Dashboard/blob/9a6bebd9f0ca71bde23cab8c94467e99c77699c7/images/1-Superstore-Dashboard.png)
 
 ## 🚀 Introduction
 
